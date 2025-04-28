@@ -52,7 +52,7 @@ void InputIndexValue(int array[], int n){
         cout << "Enter the value for index " << i << " : ";
         cin >> array[i];
     }
-    cout << "\nDone inputing the index value" << endl;
+    cout << "\nDone inputting the index value" << endl;
     system("pause");    
     system("CLS");
 }
